@@ -1,2 +1,2 @@
 local key = "ngdat"
-return;
+return key
